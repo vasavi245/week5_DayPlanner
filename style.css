@@ -78,10 +78,3 @@ textarea{
   transition: all .3s ease-in-out;
 }
 
-.disabled {
-  color: black;
-  background-color: #f0f0f0;
-  border-color: #787878;
-  cursor: not-allowed;
-  pointer-events: none;
-}
