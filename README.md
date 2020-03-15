@@ -62,7 +62,7 @@ SOFTWARE.
 
 Following are the URLs:
 
-* The URL of the deployed application.
+* The URL of the deployed application: 
 
 * The URL of the GitHub repository.
 - - -
