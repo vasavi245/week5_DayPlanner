@@ -64,5 +64,5 @@ Following are the URLs:
 
 * The URL of the deployed application: https://vasavi245.github.io/week5_DayPlanner/
 
-* The URL of the GitHub repository: https://github.com/vasavi245/week5_Homework
+* The URL of the GitHub repository: https://github.com/vasavi245/week5_DayPlanner
 - - -
